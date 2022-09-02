@@ -1,0 +1,7 @@
+## Interface: 90207
+## Title: My first WoW addon
+## Notes: This is just a test lol.
+## Author: Biomes
+## Version: 0.0.1
+
+biomesUI.lua
